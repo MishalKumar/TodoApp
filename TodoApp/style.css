@@ -21,7 +21,7 @@ body {
 .todo {
     width: 100%;
     display: flex;
-    padding: 10px 0;
+    padding: 5px;
 }
 
 .todo > input[type="text"]{
@@ -30,8 +30,8 @@ body {
     border: none;
     border-bottom: 2px solid whitesmoke;
     background: none;
-    padding: 10px;
-    font-size: 22px;
+    padding: 5px;
+    font-size: 25px;
     outline: none;
 }
 
@@ -40,11 +40,12 @@ body {
     background: black;
     color: #fff;
     text-transform: uppercase;
-    padding: 10px;
-    font-size: 35px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 50px;
     border: none;
     outline: none;
-    border-radius: 5px;
+    border-radius: 10px;
     cursor: pointer;
 }
 
